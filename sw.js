@@ -1,4 +1,4 @@
-var CACHE_NAME = "HD";
+var CACHE_NAME = "HD-cache";
 var urlsToCache = ["./.."];
 
 self.addEventListener("install", function (event) {
